@@ -34,7 +34,7 @@ The name **Haki** is inspired by the anime *One Piece*, representing inner stren
 
 ## Screenshots
 
-> *You can add your screenshots here (use Markdown image syntax if hosted online or upload on GitHub)*
+![image](https://github.com/user-attachments/assets/cde3da09-e388-4301-b3d5-11140dc78f96)
 
 ---
 
