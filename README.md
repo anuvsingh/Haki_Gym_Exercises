@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# 💪 Haki Gym Exercises
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Haki Gym Exercises is a responsive React-based fitness web app that allows users to explore workout routines by body part, view detailed exercise information, and watch video tutorials powered by the APIs. The app is built for frontend practice and API handling, inspired by the spirit of *Haki* from the anime **One Piece**, symbolizing willpower, discipline, and strength.
 
-## Available Scripts
+## ✨ Inspiration
 
-In the project directory, you can run:
+The name **Haki** is inspired by the anime *One Piece*, representing inner strength and determination. Just like the characters train to master their Haki, this app is a tool to help users master their physical strength through guided exercise routines.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 🔍 **Search by Body Part** – Easily find exercises based on targeted body areas (e.g., chest, legs, arms, etc.).
+- 📋 **Exercise Details** – Click on an exercise to view detailed information, including:
+  - Equipment used
+  - Target muscles
+  - GIF demonstration
+- 📺 **YouTube Integration** – Watch tutorial videos directly related to the selected exercise.
+- 🧠 **Similar Exercises** – Get suggestions for similar workouts to diversify your training.
+- 📱 **Fully Responsive** – Works great on desktop, tablet, and mobile devices.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tech Stack
 
-### `npm run build`
+- **React.js** – Frontend framework
+- **Material UI / Styled Components** – UI design and layout
+- **ExerciseDB API** – For exercise data
+- **YouTube Search & Data API v3** – For embedded video tutorials
+- **React Router** – For page navigation
+- **Fetch/Axios** – For API requests
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📸 Screenshots
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> *You can add your screenshots here (use Markdown image syntax if hosted online or upload on GitHub)*
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📦 Installation and Setup
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Follow these steps to run the project locally:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+# Clone the repository
+git clone https://github.com/your-username/haki-gym-exercises.git
+cd haki-gym-exercises
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Install dependencies
+npm install
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Start the development server
+npm start
