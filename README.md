@@ -1,27 +1,27 @@
-# 💪 Haki Gym Exercises
+# Haki Gym Exercises
 
 Haki Gym Exercises is a responsive React-based fitness web app that allows users to explore workout routines by body part, view detailed exercise information, and watch video tutorials powered by the APIs. The app is built for frontend practice and API handling, inspired by the spirit of *Haki* from the anime **One Piece**, symbolizing willpower, discipline, and strength.
 
-## ✨ Inspiration
+## Inspiration
 
 The name **Haki** is inspired by the anime *One Piece*, representing inner strength and determination. Just like the characters train to master their Haki, this app is a tool to help users master their physical strength through guided exercise routines.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔍 **Search by Body Part** – Easily find exercises based on targeted body areas (e.g., chest, legs, arms, etc.).
-- 📋 **Exercise Details** – Click on an exercise to view detailed information, including:
+- **Search by Body Part** – Easily find exercises based on targeted body areas (e.g., chest, legs, arms, etc.).
+- **Exercise Details** – Click on an exercise to view detailed information, including:
   - Equipment used
   - Target muscles
   - GIF demonstration
-- 📺 **YouTube Integration** – Watch tutorial videos directly related to the selected exercise.
-- 🧠 **Similar Exercises** – Get suggestions for similar workouts to diversify your training.
-- 📱 **Fully Responsive** – Works great on desktop, tablet, and mobile devices.
+- **YouTube Integration** – Watch tutorial videos directly related to the selected exercise.
+- **Similar Exercises** – Get suggestions for similar workouts to diversify your training.
+- **Fully Responsive** – Works great on desktop, tablet, and mobile devices.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React.js** – Frontend framework
 - **Material UI / Styled Components** – UI design and layout
@@ -32,13 +32,13 @@ The name **Haki** is inspired by the anime *One Piece*, representing inner stren
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > *You can add your screenshots here (use Markdown image syntax if hosted online or upload on GitHub)*
 
 ---
 
-## 📦 Installation and Setup
+## Installation and Setup
 
 Follow these steps to run the project locally:
 
